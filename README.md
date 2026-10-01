@@ -113,7 +113,7 @@ Automated test files and a test command have not been added yet. Once tests are 
 
 👤 **Temitope Ogunleye**
 
-- GitHub: [@togunleye](https://github.com/togunleye)
+- GitHub: [@togunleye](https://github.com/topegunleye)
 - LinkedIn: [ogunleye](https://www.linkedin.com/in/ogunleye)
 
 > Replace the example author details with your own before publishing the repository.
